@@ -9,7 +9,7 @@ A relational database web application developed as part of the **COS20031 Databa
 
 ## 📌 Features & Responsibilities
 
-### 🏹 Show Scores Module (*My Contribution*)
+### Show Scores Module (*My Contribution*)
 I was responsible for designing and developing the **Show Scores** (`showscore.php`) interface, which provides comprehensive dynamic filtering, sorting, and pagination for club records:
 
 * **Dynamic Multi-Criteria Filtering:** Filter records by Competition, Round, Division, and Gender.
@@ -18,7 +18,7 @@ I was responsible for designing and developing the **Show Scores** (`showscore.p
 
 ---
 
-## 📸 Interface Preview
+## Interface Preview
 
 ![Show Scores Page](images/screenshot.png)
 
